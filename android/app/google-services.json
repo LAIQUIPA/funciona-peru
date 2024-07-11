@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "565811456922",
+    "project_id": "funciona-peru-61940",
+    "storage_bucket": "funciona-peru-61940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565811456922:android:7cd740a04b18ff572de823",
+        "android_client_info": {
+          "package_name": "com.example.funciona_peru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565811456922-pporrtnsepf0e1p71s4gdo7b7ev8tmcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnznI3d5XbLIIQpmK7aS2y-Tve3e6uapA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565811456922-pporrtnsepf0e1p71s4gdo7b7ev8tmcd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "565811456922-nu5ibhi5e9288036l0tvktqbo6io2cvu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.funcionaPeru"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
